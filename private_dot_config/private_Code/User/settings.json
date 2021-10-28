@@ -1,0 +1,17 @@
+{
+    "editor.minimap.enabled": false,
+    "quokka.showCodeLensInOutputChannel": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+      "eslint.validate": [
+        "javascript"
+      ],
+      "window.zoomLevel": 1,
+      "editor.formatOnSave": true,
+      "editor.tabSize": 2
+}

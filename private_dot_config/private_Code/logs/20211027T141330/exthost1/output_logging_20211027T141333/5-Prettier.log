@@ -1,0 +1,440 @@
+["INFO" - 2:13:33 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 2:13:33 PM] Extension Version: 9.0.0.
+["INFO" - 2:23:07 PM] Formatting vscode-userdata:/home/iquill/.config/Code/User/settings.json
+["INFO" - 2:23:07 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 2:23:07 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 2:23:07 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/iquill/.config/Code/User/settings.json",
+  "parser": "json"
+}
+["INFO" - 2:23:07 PM] Formatting completed in 0.022ms.
+["INFO" - 2:23:29 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:23:29 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:23:29 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:23:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:23:29 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:23:29 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:23:29 PM] Formatting completed in 0.042ms.
+["INFO" - 2:43:03 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:43:03 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:43:03 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:43:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:43:03 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:43:03 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:43:03 PM] Formatting completed in 0.024ms.
+["INFO" - 2:43:05 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:43:05 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:43:05 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:43:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:43:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:43:05 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:43:05 PM] Formatting completed in 0.011ms.
+["INFO" - 2:43:06 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:43:06 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:43:06 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:43:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:43:06 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:43:06 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:43:06 PM] Formatting completed in 0.008ms.
+["INFO" - 2:43:06 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:43:06 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:43:06 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:43:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:43:06 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:43:06 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:43:06 PM] Formatting completed in 0.008ms.
+["INFO" - 2:43:09 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:43:09 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:43:09 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:43:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:43:09 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:43:09 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:43:09 PM] Formatting completed in 0.008ms.
+["INFO" - 2:45:50 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:45:50 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:45:50 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:45:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:45:50 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:45:50 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:45:50 PM] Formatting completed in 0.011ms.
+["INFO" - 2:45:57 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:45:57 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:45:57 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:45:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:45:57 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:45:57 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:45:57 PM] Formatting completed in 0.006ms.
+["INFO" - 2:47:35 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:47:35 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:47:35 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:47:35 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:47:35 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:47:35 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:47:35 PM] Formatting completed in 0.006ms.
+["INFO" - 2:47:41 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:47:41 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:47:41 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:47:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:47:41 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:47:41 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:47:41 PM] Formatting completed in 0.01ms.
+["INFO" - 2:47:58 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:47:58 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:47:58 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:47:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:47:58 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:47:58 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:47:58 PM] Formatting completed in 0.009ms.
+["INFO" - 2:48:06 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:48:06 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:48:06 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:48:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:48:06 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:48:06 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:48:06 PM] Formatting completed in 0.007ms.
+["INFO" - 2:48:08 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:48:08 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:48:08 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:48:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:48:08 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:48:08 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:48:08 PM] Formatting completed in 0.006ms.
+["INFO" - 2:48:23 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:48:23 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:48:23 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:48:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:48:23 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:48:23 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:48:23 PM] Formatting completed in 0.009ms.
+["INFO" - 2:48:41 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+["INFO" - 2:48:41 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:48:41 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:48:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:48:41 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:48:41 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js",
+  "parser": "babel"
+}
+["INFO" - 2:48:41 PM] Formatting completed in 0.006ms.
+["INFO" - 2:48:57 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:48:57 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:48:57 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:48:57 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:48:57 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:48:57 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:48:57 PM] Formatting completed in 0.007ms.
+["INFO" - 2:50:22 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:50:22 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:50:22 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:50:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:50:22 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:50:22 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:50:22 PM] Formatting completed in 0.007ms.
+["INFO" - 2:50:49 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+["INFO" - 2:50:49 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:50:49 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:50:49 PM] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 2:50:49 PM] File is ignored, skipping.
+["INFO" - 2:52:25 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+["INFO" - 2:52:25 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:52:25 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:52:25 PM] File Info:
+{
+  "ignored": true,
+  "inferredParser": null
+}
+["INFO" - 2:52:25 PM] File is ignored, skipping.
+["INFO" - 2:53:05 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:53:05 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:53:05 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:53:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:53:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:53:05 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:53:05 PM] Formatting completed in 0.004ms.
+["INFO" - 2:53:08 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:53:08 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:53:08 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:53:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:53:08 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:53:08 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:53:08 PM] Formatting completed in 0.007ms.
+["INFO" - 2:53:52 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:53:52 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:53:52 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:53:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:53:52 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:53:52 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:53:52 PM] Formatting completed in 0.003ms.
+["INFO" - 2:53:58 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:53:58 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:53:58 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:53:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:53:58 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:53:58 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:53:58 PM] Formatting completed in 0.006ms.
+["INFO" - 2:54:14 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:54:14 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:54:14 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:54:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:54:14 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:54:14 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:54:14 PM] Formatting completed in 0.009ms.
+["INFO" - 2:55:00 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:55:00 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:55:00 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:55:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:55:00 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:55:00 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:55:00 PM] Formatting completed in 0.008ms.
+["INFO" - 2:55:23 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:55:23 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:55:23 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:55:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:55:23 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:55:23 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:55:23 PM] Formatting completed in 0.009ms.
+["INFO" - 2:59:42 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 2:59:42 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 2:59:42 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 2:59:42 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 2:59:42 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:59:42 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 2:59:42 PM] Formatting completed in 0.008ms.
+["INFO" - 4:52:16 PM] Formatting file:///home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js
+["INFO" - 4:52:16 PM] Using config file at '/home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierrc.json'
+["INFO" - 4:52:16 PM] Using ignore file (if present) at /home/iquill/docs/odin_project/javascript/collapsing_menu/.prettierignore
+["INFO" - 4:52:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:52:16 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:52:16 PM] Prettier Options:
+{
+  "filepath": "/home/iquill/docs/odin_project/javascript/collapsing_menu/src/collapse_menu.js",
+  "parser": "babel"
+}
+["INFO" - 4:52:16 PM] Formatting completed in 0.009ms.

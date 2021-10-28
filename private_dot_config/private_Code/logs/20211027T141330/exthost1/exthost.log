@@ -1,0 +1,58 @@
+[2021-10-27 14:13:31.770] [exthost] [info] extension host started
+[2021-10-27 14:13:31.771] [exthost] [info] Skipping acquiring lock for /home/iquill/.config/Code/User/workspaceStorage/a8dcd69b834947747b49593b3638239b.
+[2021-10-27 14:13:31.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-27 14:13:31.819] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-27 14:13:31.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-27 14:13:31.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-27 14:13:31.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-10-27 14:13:31.829] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-27 14:13:31.840] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-27 14:13:31.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-27 14:13:31.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-27 14:13:31.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-27 14:13:31.854] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2021-10-27 14:13:31.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/wallabyjs.quokka-vscode-1.0.410/index
+[2021-10-27 14:13:31.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-10-27 14:13:31.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-10-27 14:13:32.009] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-27 14:13:32.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-27 14:13:32.049] [exthost] [info] eager extensions activated
+[2021-10-27 14:13:32.123] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:13:32.843] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-27 14:13:32.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-27 14:13:32.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:13:32.904] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-27 14:13:32.905] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:13:32.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2/client/out/extension
+[2021-10-27 14:13:32.917] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-27 14:13:32.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-27 14:13:33.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-27 14:13:33.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-27 14:13:49.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-10-27 14:13:49.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-10-27 14:13:50.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-10-27 14:13:50.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-27 14:13:51.373] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:13:56.497] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:14:01.619] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:14:04.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-27 14:14:04.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-27 14:14:04.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-27 14:14:04.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-10-27 14:14:04.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-27 14:14:04.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-27 14:19:09.118] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:19:16.836] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:12.764] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:17.875] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:24.247] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:30.555] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:35.693] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:21:42.873] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:23:25.202] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:23:32.129] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:24:03.333] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:27:13.822] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6763
+[2021-10-27 14:36:13.901] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 6764
+[2021-10-27 16:52:24.179] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-27 16:52:25.194] [exthost] [info] exiting with code 0

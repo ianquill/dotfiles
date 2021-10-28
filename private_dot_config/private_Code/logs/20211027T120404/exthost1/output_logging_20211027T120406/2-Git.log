@@ -1,0 +1,212 @@
+Validating found git in: git
+Using git 2.33.1 from git
+> git rev-parse --git-dir
+Open repository: /home/iquill/docs/odin_project/javascript/dropdown_menu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s c04c67d3342966e7d28528f959b73668d663100a
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 3595eecc34833d6e1f8352dad1aff3dcdddb7f7e
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s c04c67d3342966e7d28528f959b73668d663100a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 3595eecc34833d6e1f8352dad1aff3dcdddb7f7e
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s c04c67d3342966e7d28528f959b73668d663100a
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s c04c67d3342966e7d28528f959b73668d663100a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s c04c67d3342966e7d28528f959b73668d663100a
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 3595eecc34833d6e1f8352dad1aff3dcdddb7f7e
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 5a0f45dd3ff6778856fc9134e21b282ee5aaa161
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/dropdown.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s cb826d7bab788b4fc1932be0c472ac35d8bd412e
+> git cat-file -s 89a7c2d35ada400d8fa7823c2467934783ce4a60
+> git show --textconv :src/dropdown.js
+> git show --textconv :src/style.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s 9fd7ec82006803dc2bf74f6d4e78c3944b13d0e7
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 89a7c2d35ada400d8fa7823c2467934783ce4a60
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/dist/index.html
+> git cat-file -s 9fd7ec82006803dc2bf74f6d4e78c3944b13d0e7
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/dropdown_menu/src/style.css
+> git cat-file -s 89a7c2d35ada400d8fa7823c2467934783ce4a60
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

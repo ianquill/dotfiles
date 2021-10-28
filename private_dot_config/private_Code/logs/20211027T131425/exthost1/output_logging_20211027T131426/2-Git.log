@@ -1,0 +1,269 @@
+Validating found git in: git
+Using git 2.33.1 from git
+> git rev-parse --git-dir
+Open repository: /home/iquill/docs/odin_project/javascript/collapsing_menu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git show --textconv :dist/index.html
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/webpack.config.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/webpack.config.js
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/src/style.css
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/iquill/docs/odin_project/javascript/collapsing_menu/dist/index.html
+> git show --textconv :dist/index.html
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/iquill/docs/odin_project/javascript/collapsing_menu/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

@@ -1,0 +1,209 @@
+[Info  - 1:14:32 PM] ESLint server is starting
+[Info  - 1:14:32 PM] ESLint server running in node v14.16.0
+[Info  - 1:14:32 PM] ESLint server is running.
+[Info  - 1:14:34 PM] 
+Failed to load the ESLint library for the document /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder collapsing_menu
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder collapsing_menu by executing the 'Disable ESLint' command.
+[Info  - 1:20:05 PM] 
+Failed to load the ESLint library for the document /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder collapsing_menu
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder collapsing_menu by executing the 'Disable ESLint' command.
+[Info  - 1:20:27 PM] 
+Failed to load the ESLint library for the document /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder collapsing_menu
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder collapsing_menu by executing the 'Disable ESLint' command.
+[Info  - 1:53:10 PM] 
+Failed to load the ESLint library for the document /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder collapsing_menu
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder collapsing_menu by executing the 'Disable ESLint' command.
+[Info  - 1:55:53 PM] 
+Failed to load the ESLint library for the document /home/iquill/docs/odin_project/javascript/collapsing_menu/webpack.config.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder collapsing_menu
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder collapsing_menu by executing the 'Disable ESLint' command.
+[Info  - 2:00:29 PM] ESLint library loaded from: /home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/api.js
+(node:66552) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/iquill/docs/odin_project/javascript/collapsing_menu/dist.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3901:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3692:21)
+    at CLIEngine.getConfigForFile (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/cli-engine/cli-engine.js:961:14)
+    at ESLint.calculateConfigForFile (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/eslint/eslint.js:665:26)
+    at /home/iquill/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176344
+    at Ce (/home/iquill/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:186295)
+    at h.then.o.validate (/home/iquill/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2/server/out/eslintServer.js:1:176323)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `code --trace-warnings ...` to show where the warning was created)
+(node:66552) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:66552) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[Warn  - 2:00:29 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/iquill/docs/odin_project/javascript/collapsing_menu/webpack.config.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder collapsing_menu
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+[Warn  - 2:00:29 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/iquill/docs/odin_project/javascript/collapsing_menu/src/index.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder collapsing_menu
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
+(node:66552) UnhandledPromiseRejectionWarning: Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 8)
+[Error - 2:03:06 PM] ESLint stack trace:
+[Error - 2:03:06 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+[Error - 2:03:06 PM] ESLint stack trace:
+[Error - 2:03:06 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 13)
+[Error - 2:08:01 PM] ESLint stack trace:
+[Error - 2:08:01 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+[Error - 2:08:01 PM] ESLint stack trace:
+[Error - 2:08:01 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 18)
+[Error - 2:10:28 PM] ESLint stack trace:
+[Error - 2:10:28 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+[Error - 2:10:28 PM] ESLint stack trace:
+[Error - 2:10:28 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+(node:66552) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 23)
+[Error - 2:12:40 PM] ESLint stack trace:
+[Error - 2:12:40 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+[Error - 2:12:40 PM] ESLint stack trace:
+[Error - 2:12:40 PM] Error: Cannot find module '/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/espree/dist/espree.cjs'
+    at createEsmNotFoundErr (internal/modules/cjs/loader.js:961:15)
+    at finalizeEsmResolution (internal/modules/cjs/loader.js:954:15)
+    at resolveExports (internal/modules/cjs/loader.js:439:14)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:479:31)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:921:27)
+    at Module._load (internal/modules/cjs/loader.js:779:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:1006:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/iquill/docs/odin_project/javascript/collapsing_menu/node_modules/eslint/lib/rules/utils/ast-utils.js:13:16)
+[Info  - 2:13:25 PM] ESLint server stopped.

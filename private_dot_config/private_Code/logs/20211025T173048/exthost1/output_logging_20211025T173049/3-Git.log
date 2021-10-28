@@ -1,0 +1,212 @@
+Validating found git in: git
+Using git 2.33.1 from git
+> git rev-parse --git-dir
+Open repository: /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/dist/index.html
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git cat-file -s c2aaf8fc010cb85d71ecec8b0607c3131658a909
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/dist/index.html
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s c2aaf8fc010cb85d71ecec8b0607c3131658a909
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :dist/index.html
+> git config --get commit.template
+> git show --textconv :src/dropdown.js
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/webpack.config.js
+> git cat-file -s 49f86920326d872f3e00828c2199e1a938a8437e
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/dist/index.html
+> git cat-file -s c2aaf8fc010cb85d71ecec8b0607c3131658a909
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/webpack.config.js
+> git cat-file -s 49f86920326d872f3e00828c2199e1a938a8437e
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/webpack.config.js
+> git cat-file -s 49f86920326d872f3e00828c2199e1a938a8437e
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :webpack.config.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/webpack.config.js
+> git cat-file -s 49f86920326d872f3e00828c2199e1a938a8437e
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/dist/index.html
+> git cat-file -s c2aaf8fc010cb85d71ecec8b0607c3131658a909
+> git show --textconv :src/style.css
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/style.css
+> git cat-file -s 76a52cfb7eaa2f43f7d9fe23b36953d9313d2e2a
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20
+> git show --textconv :src/dropdown.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/dropdown.js
+> git cat-file -s 1d3212c35c618c229718e3db8fcfb2a176275cec
+> git show --textconv :dist/index.html
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/dist/index.html
+> git cat-file -s c2aaf8fc010cb85d71ecec8b0607c3131658a909
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/iquill/Documents/the_odin_project/Javascript/dropdown_menu/src/index.js
+> git cat-file -s b8a4b39c895cd5a3474a0413718230ff67893e20

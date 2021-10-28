@@ -1,0 +1,31 @@
+[2021-10-25 18:11:33.217] [exthost] [info] extension host started
+[2021-10-25 18:11:33.217] [exthost] [info] Skipping acquiring lock for /home/iquill/.config/Code/User/workspaceStorage/2bb2fb6626ab222327fac03f0c1200d2.
+[2021-10-25 18:11:33.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 18:11:33.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 18:11:33.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-10-25 18:11:33.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-25 18:11:33.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 18:11:33.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 18:11:33.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 18:11:33.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-25 18:11:33.300] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2021-10-25 18:11:33.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/wallabyjs.quokka-vscode-1.0.409/index
+[2021-10-25 18:11:33.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-10-25 18:11:33.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-10-25 18:11:33.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 18:11:33.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 18:11:33.541] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 18:11:33.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 18:11:33.656] [exthost] [info] eager extensions activated
+[2021-10-25 18:11:33.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 18:11:33.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 18:11:33.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 18:11:33.712] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 18:11:33.714] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 18:11:33.714] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/dbaeumer.vscode-eslint-2.2.2/client/out/extension
+[2021-10-25 18:11:33.723] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 18:11:33.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/iquill/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-10-25 18:11:34.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 18:11:34.052] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 18:31:43.800] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 18:31:44.807] [exthost] [info] exiting with code 0
